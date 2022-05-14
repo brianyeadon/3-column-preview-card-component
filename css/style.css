@@ -70,7 +70,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5.5rem 1.5rem;
+  /* padding: 5.5rem 1.5rem; */
 }
 
 .section-icon {
@@ -144,6 +144,8 @@ body {
   border-radius: 0.5rem;
   display: flex;
   flex-direction: column;
+
+  margin: 5.5rem 1.5rem;
 }
 
 .card-section {
