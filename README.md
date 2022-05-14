@@ -12,9 +12,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note after deleting any sections you don't use**
 
