@@ -70,7 +70,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* padding: 5.5rem 1.5rem; */
+  padding: 5.5rem 1.5rem;
 }
 
 .section-icon {
@@ -79,7 +79,7 @@ body {
 }
 
 /* Removes the element from the page flow and hides the content to the left of the visible browser window. Readable by screen readers. */
-/* .sr-only {
+.sr-only {
   position: absolute;
   top: auto;
   height: 1px;
@@ -87,7 +87,7 @@ body {
   overflow: hidden;
   clip: rect(1px, 1px, 1px, 1px);
   white-space: nowrap;
-} */
+}
 
 /*** TYPOGRAPHY ***/
 .section-heading {
@@ -144,8 +144,6 @@ body {
   border-radius: 0.5rem;
   display: flex;
   flex-direction: column;
-
-  margin: 5.5rem 1.5rem;
 }
 
 .card-section {
@@ -169,7 +167,7 @@ body {
 }
 
 /*** MEDIA QUERIES ***/
-@media (min-width: 50rem) {
+@media (min-width: 53.125rem) {
   /* Typography */
   .section-body-text {
     margin-bottom: 5.1875rem;
