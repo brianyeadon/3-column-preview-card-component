@@ -79,7 +79,7 @@ body {
 }
 
 /* Removes the element from the page flow and hides the content to the left of the visible browser window. Readable by screen readers. */
-.sr-only {
+/* .sr-only {
   position: absolute;
   top: auto;
   height: 1px;
@@ -87,7 +87,7 @@ body {
   overflow: hidden;
   clip: rect(1px, 1px, 1px, 1px);
   white-space: nowrap;
-}
+} */
 
 /*** TYPOGRAPHY ***/
 .section-heading {
