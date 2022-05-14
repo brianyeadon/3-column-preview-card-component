@@ -115,6 +115,7 @@ body {
   border-radius: 1.5625rem; /* 25px */
   cursor: pointer;
   margin-top: auto;
+  outline: none;
   border: 2px solid transparent;
   transition: all 0.3s ease-out;
 }
