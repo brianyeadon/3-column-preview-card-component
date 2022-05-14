@@ -81,11 +81,12 @@ body {
 /* Removes the element from the page flow and hides the content to the left of the visible browser window. Readable by screen readers. */
 .sr-only {
   position: absolute;
-  left: -10000px;
   top: auto;
-  width: 1px;
   height: 1px;
+  width: 1px;
   overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
 }
 
 /*** TYPOGRAPHY ***/
