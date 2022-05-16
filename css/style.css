@@ -76,6 +76,7 @@ body {
 .section-icon {
   max-height: 2.5rem;
   object-fit: contain;
+  margin-bottom: 2.1875rem; /* 35px */
 }
 
 /* Removes the element from the page flow and hides the content to the left of the visible browser window. Readable by screen readers. */
@@ -97,11 +98,10 @@ body {
   color: var(--clr-gray);
   line-height: 3rem;
   text-transform: uppercase;
-  margin-top: 2.1875rem; /* 35px */
+  margin-bottom: 1.5625rem; /* 25px */
 }
 
 .section-body-text {
-  margin-top: 1.5625rem; /* 25px */
   margin-bottom: 1.5625rem; /* 25px */
   opacity: 0.75;
 }
